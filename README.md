@@ -7,7 +7,8 @@
 Написать те же авто-тесты, используя API JUnit Jupiter в отдельной ветке от ветки JUnit4.
 Отчет о тестах JUnit4 и JUnit Jupiter собрать в отчет и упаковать в zip-архив.
 ### TOOLS
-Gradle, TestNG, JUnit4, JUnit Jupiter
+Gradle, TestNG, JUnit4, JUnit Jupiter, GitHub Actions
 ### CONCLUSION
 Обнаружен некорректный расчёт остатка суммы при граничных значениях.
 При покупке на 1000 руб. сервис не должен предлагать покупку еще на 1000 руб.
+
